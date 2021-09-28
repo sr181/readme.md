@@ -1,0 +1,17 @@
+from,to,weight,relationship
+SB,P,2,3
+SB,T,1,3
+T,SB,1,1
+SB,MK,1,3
+MK,SB,1,2
+SB,PL,1,2
+PL,SB,1,1
+SB,S,2,3
+SB,G,2,3
+P,T,1,2
+T,P,1,1
+P,S,2,2
+P,G,1,2
+T,MK,1,2
+T,PL,1,1
+MK,PL,2,1
